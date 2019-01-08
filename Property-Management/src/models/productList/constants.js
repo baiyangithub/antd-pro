@@ -1,0 +1,1 @@
+export const NAMESPACE = '@products' // eslint-disable-line
